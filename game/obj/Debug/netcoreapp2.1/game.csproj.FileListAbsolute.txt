@@ -1,0 +1,11 @@
+C:\Users\Daniel.LAPTOP-0APVLH0B\source\repos\game\game\bin\Debug\netcoreapp2.1\game.deps.json
+C:\Users\Daniel.LAPTOP-0APVLH0B\source\repos\game\game\bin\Debug\netcoreapp2.1\game.runtimeconfig.json
+C:\Users\Daniel.LAPTOP-0APVLH0B\source\repos\game\game\bin\Debug\netcoreapp2.1\game.runtimeconfig.dev.json
+C:\Users\Daniel.LAPTOP-0APVLH0B\source\repos\game\game\bin\Debug\netcoreapp2.1\game.dll
+C:\Users\Daniel.LAPTOP-0APVLH0B\source\repos\game\game\bin\Debug\netcoreapp2.1\game.pdb
+C:\Users\Daniel.LAPTOP-0APVLH0B\source\repos\game\game\obj\Debug\netcoreapp2.1\game.csproj.CoreCompileInputs.cache
+C:\Users\Daniel.LAPTOP-0APVLH0B\source\repos\game\game\obj\Debug\netcoreapp2.1\game.AssemblyInfoInputs.cache
+C:\Users\Daniel.LAPTOP-0APVLH0B\source\repos\game\game\obj\Debug\netcoreapp2.1\game.AssemblyInfo.cs
+C:\Users\Daniel.LAPTOP-0APVLH0B\source\repos\game\game\obj\Debug\netcoreapp2.1\game.dll
+C:\Users\Daniel.LAPTOP-0APVLH0B\source\repos\game\game\obj\Debug\netcoreapp2.1\game.pdb
+C:\Users\Daniel.LAPTOP-0APVLH0B\source\repos\game\game\obj\Debug\netcoreapp2.1\game.csprojAssemblyReference.cache
